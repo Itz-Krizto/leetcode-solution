@@ -20,6 +20,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+| [1768-merge-strings-alternately](https://github.com/Itz-Krizto/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Itz-Krizto/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
