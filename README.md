@@ -15,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+| [2544-alternating-digit-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/2544-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
