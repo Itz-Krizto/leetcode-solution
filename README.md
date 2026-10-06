@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
+| [3701-compute-alternating-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+| [3701-compute-alternating-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
