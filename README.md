@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
 | [1768-merge-strings-alternately](https://github.com/Itz-Krizto/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Array
