@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [3701-compute-alternating-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
