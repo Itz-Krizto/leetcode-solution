@@ -15,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0231-power-of-two) |
 | [2544-alternating-digit-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/2544-alternating-digit-sum) |
 ## String
@@ -25,6 +26,7 @@
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [1768-merge-strings-alternately](https://github.com/Itz-Krizto/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
