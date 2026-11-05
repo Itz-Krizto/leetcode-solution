@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0231-power-of-two) |
 | [2544-alternating-digit-sum](https://github.com/Itz-Krizto/leetcode-solution/tree/master/2544-alternating-digit-sum) |
 ## String
