@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0231-power-of-two) |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Itz-Krizto/leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
